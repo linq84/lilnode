@@ -153,7 +153,7 @@ input[type='checkbox'] {
   justify-content: center;
   align-items: center;
   font-size: 50px;
-  font-family: 'Roboto Mono';
+  font-family: 'Ubuntu';
   color: white;
 }
 
@@ -164,7 +164,7 @@ input[type='checkbox'] {
   justify-content: center;
   align-items: center;
   font-size: 16px;
-  font-family: 'Roboto Mono';
+  font-family: 'Ubuntu';
   opacity: 50%;
 }
 
