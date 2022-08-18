@@ -15,7 +15,7 @@ html, body {
 
 .searchbox {
   font-size: 14px;
-  font-family: 'Roboto Mono';
+  font-family: 'Ubuntu';
   font-weight: 700;
   color: #00ffb3;
   border: 2px solid #00ffb3;
@@ -34,7 +34,7 @@ input::placeholder {
 
 .extension {
   font-size: 14px;
-  font-family: 'Roboto Mono';
+  font-family: 'Ubuntu';
   font-weight: 700;
   color: #ffffff;
   border: 2px solid #ffffff;
@@ -61,7 +61,7 @@ input[type='checkbox'] {
 .lbl-toggle {
   display: block;
   font-weight: bold;
-  font-family: 'Roboto Mono';
+  font-family: 'Ubuntu';
   text-align: center;
   padding: 1rem;
   color: white;
@@ -108,7 +108,7 @@ input[type='checkbox'] {
 }
 
 .collapsible-content .content-inner {
-  font-family: 'Roboto Mono';
+  font-family: 'Ubuntu';
   background: transparent;
   border-bottom-left-radius: 7px;
   border-bottom-right-radius: 7px;
@@ -174,7 +174,7 @@ input[type='checkbox'] {
   justify-content: center;
   align-items: center;
   font-size: 14px;
-  font-family: 'Roboto Mono';
+  font-family: 'Ubuntu';
   font-weight: 700;
   color: #ffffff;
   border: 2px solid #ffffff;
@@ -210,7 +210,7 @@ button {
   justify-content: center;
   align-items: center;
   font-size: 16px;
-  font-family: 'Roboto Mono';
+  font-family: 'Ubuntu';
   color: #ffffff50;
 }
 
